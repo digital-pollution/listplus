@@ -1,0 +1,25 @@
+{
+  "title": "Thai Green Curry",
+  "img": "assets/recipes/placeholder.png",
+  "purchaseable": true,
+  "ingredients": [
+    {
+      "title": "Coconut Milk",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 300,
+      "units": "ml"
+    },
+    {
+      "title": "Green curry paste",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 3,
+      "units": "tsp"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "1. Add to wok",
+      "content": "Add the coconut milk\ninto a wok"
+    }
+  ]
+}
