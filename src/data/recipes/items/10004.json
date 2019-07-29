@@ -1,0 +1,204 @@
+{
+  "title": "Hot and Creamy Soup with Chicken",
+  "img": "assets/recipes/placeholder.png",
+  "purchaseable": true,
+  "serves": 2,
+  "category": "Thai",
+  "searchterms": "",
+  "equipment": [
+    {
+      "items": [
+        {
+          "id": "ABC128",
+          "title": "Saucepan",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        },
+        {
+          "id": "ABC123",
+          "title": "Chopping Board",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        },
+        {
+          "id": "ABC124",
+          "title": "Sharp Knife",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        },
+        {
+          "id": "ABC127",
+          "title": "Large Spoon",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        },
+        {
+          "id": "ABC128",
+          "title": "Lemon Juicer",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "ABC1234",
+      "title": "Chicken Breast",
+      "brand": "Tesco",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 50,
+      "units": "grams"
+    },
+    {
+      "id": "ABC1246",
+      "title": "Lemongrass",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "tbsp"
+    },
+    {
+      "id": "ABC1243",
+      "title": "Kaffir Lime Leaves",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 2,
+      "units": "Whole"
+    },
+    {
+      "id": "ABC1245",
+      "title": "Red Chili Peppers",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 7,
+      "units": "Whole"
+    },
+    {
+      "id": "ABC1247",
+      "title": "Lime",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "Whole"
+    },
+    {
+      "id": "ABC1248",
+      "title": "Oyster Mushrooms",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 30,
+      "units": "grams"
+    },
+    {
+      "id": "ABC1249",
+      "title": "Ginger",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 0.5,
+      "units": "tbsp"
+    },
+    {
+      "id": "ABC1250",
+      "title": "Coriander",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "tbsp"
+    },
+    {
+      "id": "ABC1251",
+      "title": "Spring Onion",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "tbsp"
+    },
+    {
+      "id": "ABC1252",
+      "title": "Onion",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 50,
+      "units": "grams"
+    },
+    {
+      "id": "ABC1253",
+      "title": "Tomato",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 50,
+      "units": "grams"
+    },
+    {
+      "id": "ABC1240",
+      "title": "Fish Sauce",
+      "brand": "Uncle Ben's",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "tbsp"
+    },
+    {
+      "id": "ABC1239",
+      "title": "Water",
+      "brand": "N/A",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 0.5,
+      "units": "cup"
+    },
+    {
+      "id": "ABC1238",
+      "title": "Coconut Cream",
+      "brand": "Coconut Dream",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 0.5,
+      "units": "cup"
+    },
+    {
+      "id": "ABC1241",
+      "title": "Sugar",
+      "brand": "Graham's",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1.5,
+      "units": "tsp"
+    },
+    {
+      "id": "ABC1254",
+      "title": "Red Curry Paste",
+      "brand": "HotnSpicy",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "tsp"
+    },
+    {
+      "id": "ABC1255",
+      "title": "Chicken Stock",
+      "brand": "Bisto",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "cube"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "Step 1.",
+      "content": "Slice the chicken breast into bitesize pieces\nChop the Lemongrass, oyster Mushrooms, ginger, Coriander,\nSpring Onion, Onion and Tomato into small pieces.\nCrush the red chili peppers into a paste.\nJuice the lime."
+    },
+    {
+      "step": "Step 2.",
+      "content": "Add the coconut cream and water to the pot; add chicken stock, kaffir lime leaves, Lemongrass, ginger and crushed chili peppers."
+    },
+    {
+      "step": "Step 3.",
+      "content": "After this is boiling or until you can smell the herbs, add tomatoes, onion, oyster Mushrooms and chicken."
+    },
+    {
+      "step": "Step 4.",
+      "content": "Add fish sauce, sugar, red curry paste, lime juice, coriander and spring onions."
+    },
+    {
+      "step": "Step 5.",
+      "content": "Serve!."
+    }
+      ]
+    }

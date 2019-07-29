@@ -1,0 +1,172 @@
+{
+  "title": "Thai Green Curry with Chicken",
+  "img": "assets/recipes/placeholder.png",
+  "purchaseable": true,
+  "serves": 2,
+  "category": "Thai",
+  "searchterms": "",
+  "equipment": [
+    {
+      "items": [
+        {
+          "id": "ABC123",
+          "title": "Chopping Board",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        },
+        {
+          "id": "ABC124",
+          "title": "Sharp Knife",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        },
+        {
+          "id": "ABC125",
+          "title": "Wok",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        },
+        {
+          "id": "ABC126",
+          "title": "Can Opener",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        },
+        {
+          "id": "ABC127",
+          "title": "Large Spoon",
+          "brand": "Mr Chop",
+          "img": "assets/ingredients/placeholder.png"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "ABC1234",
+      "title": "Chicken Breast",
+      "brand": "Tesco",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 100,
+      "units": "grams"
+    },
+    {
+      "id": "ABC1235",
+      "title": "Green Curry Paste",
+      "brand": "Cook's Friend",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "tbsp"
+    },
+    {
+      "id": "ABC1236",
+      "title": "Chopped Eggplant",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 25,
+      "units": "grams"
+    },
+    {
+      "id": "ABC1237",
+      "title": "Chopped Carrot",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 25,
+      "units": "grams"
+    },
+    {
+      "id": "ABC1238",
+      "title": "Coconut Cream",
+      "brand": "Coconut Dream",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 0.5,
+      "units": "cup"
+    },
+    {
+      "id": "ABC1239",
+      "title": "Water",
+      "brand": "N/A",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 0.5,
+      "units": "cup"
+    },
+    {
+      "id": "ABC1240",
+      "title": "Fish Sauce",
+      "brand": "Uncle Ben's",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 1,
+      "units": "tbsp"
+    },
+    {
+      "id": "ABC1241",
+      "title": "Sugar",
+      "brand": "Graham's",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 2,
+      "units": "tsp"
+    },
+    {
+      "id": "ABC1242",
+      "title": "Cooking Oil",
+      "brand": "Sainsbury's",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 2,
+      "units": "tbsp"
+    },
+    {
+      "id": "ABC1243",
+      "title": "Kaffir Lime Leaves",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 2,
+      "units": "Whole"
+    },
+    {
+      "id": "ABC1244",
+      "title": "Sweet Basil Leaves",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 2,
+      "units": "Whole"
+    },
+    {
+      "id": "ABC1245",
+      "title": "Red Chili Peppers",
+      "brand": "Market",
+      "img": "assets/ingredients/placeholder.png",
+      "quantity": 2,
+      "units": "Whole"
+    }
+  ],
+  "instructions": [
+    {
+      "step": "Step 1.",
+      "content": "Slice the chicken breast into bitesize pieces\nChop the eggplant and carrots into small pieces.\nFinely chop the red chili peppers."
+    },
+    {
+      "step": "Step 2.",
+      "content": "Add cooking oil to the wok, on low heat add green curry paste and coconut cream\nBring to a simmer and stir continuously for 1-2 minutes."
+    },
+    {
+      "step": "Step 3.",
+      "content": "Add sliced chicken and stir vigorously until the chicken is cooked."
+    },
+    {
+      "step": "Step 4.",
+      "content": "Increase to high heat. Add water, fish sauce and sugar."
+    },
+    {
+      "step": "Step 5.",
+      "content": "Add the eggplant, carrots and kaffir lime leaves.\nKeep boiling until the eggplant is cooked."
+    },
+    {
+      "step": "Step 6.",
+      "content": "Add the sweet basil leaves and chopped red chili peppers."
+    },
+    {
+      "step": "Step 7.",
+      "content": "Serve with steamed or sticky rice."
+    }
+  ]
+}

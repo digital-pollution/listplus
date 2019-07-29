@@ -1,0 +1,26 @@
+{
+  "title": "My List",
+  "items": [
+    {
+      "id": 10001,
+      "title": "Shopping",
+      "datecreated": 123456789,
+      "datedue": 987654321,
+      "color": 1
+    },
+    {
+      "id": 10002,
+      "title": "Chores",
+      "datecreated": 234567891,
+      "datedue": 876543219,
+      "color": 2
+    },
+    {
+      "id": 10003,
+      "title": "Work",
+      "datecreated": 234567894,
+      "datedue": 876543214,
+      "color": 2
+    }
+  ]
+}

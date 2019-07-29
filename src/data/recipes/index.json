@@ -1,0 +1,25 @@
+{
+  "title": "My Recipes",
+  "recipes": [
+    {
+      "id": 10001,
+      "title": "Thai Green Curry"
+    },
+    {
+      "id": 10002,
+      "title": "Hot and Sour Soup with Chicken",
+    },
+    {
+      "id": 10003,
+      "title": "Coconut Soup with Chicken",
+    },
+    {
+      "id": 10004,
+      "title": "Hot and Creamy Soup with Chicken",
+    },
+    {
+      "id": 10005,
+      "title": "Spicy Soup with Chicken",
+    }
+  ]
+}
