@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { ModalController, NavController } from '@ionic/angular';
 import { AddItemPage } from '../add-item/add-item.page';
+import { ItemDetailPage } from '../item-detail/item-detail.page';
+import { DataService } from '../data.service';
 
 @Component({
   selector: 'app-home',
@@ -12,8 +14,17 @@ export class HomePage {
 
   constructor(
     public navCtrl: NavController,
-    public modalCtrl: ModalController
-  ) {}
+    public modalCtrl: ModalController,
+    public dataService: DataService
+  ) {
+
+    this.dataService.getData().then((items) => {
+      if (items) {
+        this.items = items;
+      }
+    });
+
+  }
 
   ngOnInit() {
 
@@ -25,7 +36,7 @@ export class HomePage {
     });
 
     modal.onDidDismiss().then((item) => {
-      if (item) {
+      if (item.data) {
         this.saveItem(item);
       }
     });
@@ -35,12 +46,11 @@ export class HomePage {
 
   saveItem(item) {
     this.items.push(item.data);
-
-    console.warn(this.items);
+    this.dataService.save(this.items);
   }
 
   viewItem(item) {
-
+    this.navCtrl.navigateForward(`/item-detail/${item.id}`);
   }
 
 }

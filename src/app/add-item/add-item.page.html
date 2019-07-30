@@ -3,10 +3,10 @@
     <ion-title>
       Add Item
     </ion-title>
-      <ion-buttons slot="primary">
-        <ion-button icon-only (click)="close()"><ion-icon name="close"></ion-icon></ion-button>
-      </ion-buttons>
-    </ion-toolbar>
+    <ion-buttons slot="primary">
+      <ion-button icon-only (click)="close()"><ion-icon name="close"></ion-icon></ion-button>
+    </ion-buttons>
+  </ion-toolbar>
 </ion-header>
 
 <ion-content>
@@ -20,6 +20,11 @@
     <ion-item>
       <ion-label floating>Description</ion-label>
       <ion-input type="text" [(ngModel)]="description"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ionic-calendar-date-picker (onSelect)="dateSelected($event)">
+      </ionic-calendar-date-picker>
     </ion-item>
 
   </ion-list>

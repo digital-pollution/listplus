@@ -23,4 +23,5 @@ const routes: Routes = [
   ],
   declarations: [ItemDetailPage]
 })
+
 export class ItemDetailPageModule {}

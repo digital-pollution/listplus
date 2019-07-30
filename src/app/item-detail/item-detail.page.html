@@ -1,9 +1,18 @@
 <ion-header>
-  <ion-toolbar>
-    <ion-title>ItemDetail</ion-title>
+  <ion-toolbar color="secondary">
+    <ion-buttons slot="primary">
+      <ion-button (click)="back()">Back</ion-button>
+    </ion-buttons>
+    <ion-title>
+      {{title}}
+    </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-
+  <ion-card>
+    <ion-card-content>
+      {{description}}
+    </ion-card-content>
+  </ion-card>
 </ion-content>
